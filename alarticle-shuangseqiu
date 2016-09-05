@@ -4,6 +4,7 @@
     <title>Alarticle-lottery by chongynj</title>
 <style type="text/css">
     body {font-family:Verdana, Arial, '微软雅黑';
+    padding:15px 0 0 25px;
     color:#333333;}
     h1{font-size:32px;}
     h2{font-size:28px;}
