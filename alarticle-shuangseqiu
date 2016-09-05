@@ -2,7 +2,24 @@
 <head>
     <meta charset="UTF-8">
     <title>Alarticle-lottery by chongynj</title>
-
+    <style type="text/css">
+    body {font-family:Verdana, Arial, '微软雅黑';
+    color:#333333;
+    }
+    p{margin:15px 5px 5px 0px}
+    h1{
+    font-size:32px;
+    margin:10px 15px 15px 0px;
+    }
+    h2{
+    font-size:28px;
+    margin:10px 15px 15px 0px;
+    }
+    h3{
+    font-size:24px;
+    margin:10px 15px 15px 0px;
+    }
+</style>
   </head>
   <body>
     <h1>Alarticle-lottery</h1>
